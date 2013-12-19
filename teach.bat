@@ -11,3 +11,5 @@ goto lbl
 echo line 11
 echo line 12
 :end
+
+% COMMENTS
